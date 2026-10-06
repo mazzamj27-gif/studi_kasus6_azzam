@@ -1,6 +1,6 @@
->> Sistem Pencatatan Nilai Mahasiswa
+# Sistem Pencatatan Nilai Mahasiswa
 
->> Penjelasan Kode
+## Penjelasan Kode
 
 `import json` digunakan untuk mengimpor library JSON agar program dapat membaca dan menyimpan data dalam format JSON.
 
@@ -16,7 +16,7 @@ Function `simpan_file()` digunakan untuk menyimpan data yang sudah ditambahkan k
 
 `while True` digunakan agar program dapat berjalan terus menerus dan menampilkan menu berulang kali. `input()` digunakan untuk menerima pilihan dari pengguna. `if`, `elif`, dan `else` digunakan untuk menentukan proses sesuai pilihan menu. Jika pengguna memilih menu 1, program menampilkan data. Jika memilih menu 2, program meminta data mahasiswa dan menyimpannya. Jika memilih menu 3, `break` digunakan untuk menghentikan program.
 
->> Kode Program
+## Kode Program
 
 ```python
 import json
@@ -78,17 +78,18 @@ while True:
 
     else:
         print("Pilihan tidak tersedia!")
+```
 
->> output
-ini untuk menampilkan data semua
+## Output
 
-<img width="1920" height="1080" alt="Screenshot 2026-10-06 210228" src="https://github.com/user-attachments/assets/e054143f-87bc-460c-90c6-f6a7ae064cc8" />
+### Menampilkan semua data
 
-ini untuk menambahkan data
+<img width="800" alt="Output menampilkan semua data" src="https://github.com/user-attachments/assets/e054143f-87bc-460c-90c6-f6a7ae064cc8" />
 
-<img width="466" height="362" alt="Screenshot 2026-10-06 210442" src="https://github.com/user-attachments/assets/17b0ee88-51d9-4532-a851-db83a69093e7" />
+### Menambahkan data
 
-dan ini ketika ketik 3 akan keluar dari program
+<img width="466" alt="Output menambahkan data" src="https://github.com/user-attachments/assets/17b0ee88-51d9-4532-a851-db83a69093e7" />
 
-<img width="467" height="275" alt="Screenshot 2026-10-06 210614" src="https://github.com/user-attachments/assets/acb1dd42-41c6-414c-842c-272db0161e5c" /> '''
+### Keluar dari program (menu 3)
 
+<img width="467" alt="Output keluar dari program" src="https://github.com/user-attachments/assets/acb1dd42-41c6-414c-842c-272db0161e5c" />
