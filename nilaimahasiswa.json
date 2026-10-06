@@ -1,0 +1,32 @@
+[
+    {
+        "nim": "23001",
+        "nama": "Azzam",
+        "nilai": 85
+    },
+    {
+        "nim": "23002",
+        "nama": "juhdi",
+        "nilai": 90
+    },
+    {
+        "nama": "muhammad fikri",
+        "nim": "2609116095",
+        "nilai": 64
+    },
+    {
+        "nama": "marexcel albino",
+        "nim": "2609116087",
+        "nilai": 10
+    },
+    {
+        "nama": "muhammad rahmat prasetyo",
+        "nim": "2609116100",
+        "nilai": 5
+    },
+    {
+        "nama": "muhammad fahry prasetyo",
+        "nim": "2609116104",
+        "nilai": 20
+    }
+]
