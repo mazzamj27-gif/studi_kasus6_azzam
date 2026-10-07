@@ -1,3 +1,7 @@
+nama: muhammad azzam juhd
+nim: 2609116089
+kelas: c
+
 # Sistem Pencatatan Nilai Mahasiswa
 
 ## Penjelasan Kode
